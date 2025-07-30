@@ -1,0 +1,12 @@
+secret
+123456
+password
+admin
+root
+changeme
+secretkey
+jwt
+json
+token
+auth
+key
